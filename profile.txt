@@ -1,3 +1,3 @@
 name: Student
-role: backend developerss
+role: frontend developerss
 status: active
